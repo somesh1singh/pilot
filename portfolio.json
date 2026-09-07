@@ -1,0 +1,50 @@
+{
+  "stocks": [
+    {
+      "ticker": "AGI.NS",
+      "quantity": 575.0,
+      "avg_price": 685.2523,
+      "invested_file": 394020.0725,
+      "ltp_file": 736.0,
+      "current_file": 423200.0,
+      "buy_date": ""
+    },
+    {
+      "ticker": "BAJAJHFL.NS",
+      "quantity": 3700.0,
+      "avg_price": 104.4935,
+      "invested_file": 386625.95,
+      "ltp_file": 83.08,
+      "current_file": 307396.0,
+      "buy_date": ""
+    },
+    {
+      "ticker": "BBOX.NS",
+      "quantity": 450.0,
+      "avg_price": 623.7062,
+      "invested_file": 280667.79,
+      "ltp_file": 712.25,
+      "current_file": 320512.5,
+      "buy_date": ""
+    },
+    {
+      "ticker": "BDL.NS",
+      "quantity": 315.0,
+      "avg_price": 1521.6833,
+      "invested_file": 479330.23949999997,
+      "ltp_file": 1258.0,
+      "current_file": 396270.0,
+      "buy_date": ""
+    },
+    {
+      "ticker": "BECTORFOOD.NS",
+      "quantity": 1900.0,
+      "avg_price": 227.97,
+      "invested_file": 433143.0,
+      "ltp_file": 225.96,
+      "current_file": 429324.0,
+      "buy_date": ""
+    }
+  ],
+  "note": "Sample from holdings-04.09.2026-for_Analysis.xlsx - Total Quantity Available fixed"
+}
